@@ -10,7 +10,7 @@ I created simple SQL queries to retrieve data and sort it by calendar year and p
 
 The time series graphs can be found here: https://sanjanarattan-ccch3-eda-exxevd.streamlit.app/
 
-![alt text](./images.ccc-EDA.jpg)
+![alt text](./images/ccc-EDA.jpg)
 
 ## Findings from Initial Analysis
 
